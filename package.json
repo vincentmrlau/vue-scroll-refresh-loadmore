@@ -1,6 +1,6 @@
 {
   "name": "vue-scroll-refresh-loadmore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a vue component, for scrolling to refresh and load infinite",
   "main": "Scroller.vue",
   "scripts": {
