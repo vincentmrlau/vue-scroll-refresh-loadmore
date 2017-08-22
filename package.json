@@ -1,0 +1,27 @@
+{
+  "name": "vue-scroll-refresh-loadmore",
+  "version": "1.0.0",
+  "description": "a vue component, for scrolling to refresh and load infinite",
+  "main": "Scroller.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentmrlau/vue-scroll-refresh-loadmore.git"
+  },
+  "keywords": [
+    "vue",
+    "scroll",
+    "refresh",
+    "infinite",
+    "load",
+    "refresh"
+  ],
+  "author": "vincent lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentmrlau/vue-scroll-refresh-loadmore/issues"
+  },
+  "homepage": "https://github.com/vincentmrlau/vue-scroll-refresh-loadmore#readme"
+}
